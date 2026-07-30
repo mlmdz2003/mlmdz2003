@@ -6,7 +6,7 @@
 <h3 align="center">Wirtschaftsinformatik-Student | Automatisierung, Daten & Softwareprojekte</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECCFF&center=true&vCenter=true&width=500&lines=Code+schreiben.+Prozesse+automatisieren.;n8n+%2B+Python+%2B+LaTeX+%3D+%3C3;Aktuell%3A+Stats-WWebsite+pflegen+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECCFF&center=true&vCenter=true&width=500&lines=Code+schreiben.+Prozesse+automatisieren.;n8n+%2B+Python+%2B+LaTeX+%3D+%3C3;Aktuell%3A+Website+pflegen+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 ---
