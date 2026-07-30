@@ -1,0 +1,2225 @@
+<svg viewBox="0 0 344.0 570.0" xmlns="http://www.w3.org/2000/svg">
+<style>
+  text.arow {
+    font-family: 'Courier New', Consolas, monospace;
+    font-size: 5.4px;
+    opacity: 0;
+    animation: reveal 0.6s ease-out forwards;
+  }
+  @keyframes reveal {
+    from { opacity: 0; transform: translateY(-2px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .glow {
+    animation: pulse 2.6s ease-in-out infinite alternate;
+  }
+  @keyframes pulse {
+    from { opacity: 0.55; }
+    to   { opacity: 1; }
+  }
+</style>
+<text class="arow" x="10" y="15.67" style="animation-delay:0.0s" xml:space="preserve">
+<tspan fill="#7982a9">----------------------------------------------------------------------------------------------------</tspan>
+</text>
+<text class="arow" x="10" y="21.34" style="animation-delay:0.018s" xml:space="preserve">
+<tspan fill="#7982a9">----------------------------------------------------------------------------------------------------</tspan>
+</text>
+<text class="arow" x="10" y="27.01" style="animation-delay:0.036s" xml:space="preserve">
+<tspan fill="#7982a9">----------------------------------------------------------------------------------------------------</tspan>
+</text>
+<text class="arow" x="10" y="32.68" style="animation-delay:0.054s" xml:space="preserve">
+<tspan fill="#7982a9">----------------------------------------------------------------------------------------------------</tspan>
+</text>
+<text class="arow" x="10" y="38.35" style="animation-delay:0.072s" xml:space="preserve">
+<tspan fill="#7982a9">------------------------------------------------------------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+</text>
+<text class="arow" x="10" y="44.02" style="animation-delay:0.09s" xml:space="preserve">
+<tspan fill="#7982a9">----------------------------------------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+</text>
+<text class="arow" x="10" y="49.69" style="animation-delay:0.108s" xml:space="preserve">
+<tspan fill="#7982a9">--------------------------------------------------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+</text>
+<text class="arow" x="10" y="55.36" style="animation-delay:0.126s" xml:space="preserve">
+<tspan fill="#7982a9">--------------------------------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+</text>
+<text class="arow" x="10" y="61.03" style="animation-delay:0.144s" xml:space="preserve">
+<tspan fill="#7982a9">--------------------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+</text>
+<text class="arow" x="10" y="66.70" style="animation-delay:0.162s" xml:space="preserve">
+<tspan fill="#7982a9">-----------------------------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="72.37" style="animation-delay:0.18s" xml:space="preserve">
+<tspan fill="#7982a9">-------------------------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+</text>
+<text class="arow" x="10" y="78.04" style="animation-delay:0.198s" xml:space="preserve">
+<tspan fill="#7982a9">------------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="83.71" style="animation-delay:0.216s" xml:space="preserve">
+<tspan fill="#7982a9">-------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="89.38" style="animation-delay:0.234s" xml:space="preserve">
+<tspan fill="#7982a9">-------------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="95.05" style="animation-delay:0.252s" xml:space="preserve">
+<tspan fill="#7982a9">-----------------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="100.72" style="animation-delay:0.27s" xml:space="preserve">
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="106.39" style="animation-delay:0.288s" xml:space="preserve">
+<tspan fill="#7982a9">--------</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="112.06" style="animation-delay:0.306s" xml:space="preserve">
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-------</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="117.73" style="animation-delay:0.324s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="123.40" style="animation-delay:0.342s" xml:space="preserve">
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+<tspan fill="#7982a9">--------</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="129.07" style="animation-delay:0.36s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-------</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="134.74" style="animation-delay:0.378s" xml:space="preserve">
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="140.41" style="animation-delay:0.396s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#565f89">====</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="146.08" style="animation-delay:0.414s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-------</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="151.75" style="animation-delay:0.432s" xml:space="preserve">
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="157.42" style="animation-delay:0.45s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="163.09" style="animation-delay:0.468s" xml:space="preserve">
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="168.76" style="animation-delay:0.486s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="174.43" style="animation-delay:0.504s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="180.10" style="animation-delay:0.522s" xml:space="preserve">
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="185.77" style="animation-delay:0.54s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="191.44" style="animation-delay:0.558s" xml:space="preserve">
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="197.11" style="animation-delay:0.576s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="202.78" style="animation-delay:0.594s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="208.45" style="animation-delay:0.612s" xml:space="preserve">
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="214.12" style="animation-delay:0.63s" xml:space="preserve">
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="219.79" style="animation-delay:0.648s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="225.46" style="animation-delay:0.666s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="231.13" style="animation-delay:0.684s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="236.80" style="animation-delay:0.702s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#c0c4d8">.</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="242.47" style="animation-delay:0.72s" xml:space="preserve">
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="248.14" style="animation-delay:0.738s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#############</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#c0c4d8">...</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#565f89">======</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+</text>
+<text class="arow" x="10" y="253.81" style="animation-delay:0.756s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">###########</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">###############</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">++++++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#c0c4d8">.....</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="259.48" style="animation-delay:0.774s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#########################</tspan>
+<tspan fill="#7aa2f7">********</tspan>
+<tspan fill="#414868">++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="265.15" style="animation-delay:0.792s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">#####################</tspan>
+<tspan fill="#7aa2f7">***********</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#c0c4d8">...</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="270.82" style="animation-delay:0.81s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">####################</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">************</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#c0c4d8">......</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="276.49" style="animation-delay:0.828s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##########</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="282.16" style="animation-delay:0.846s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+<tspan fill="#7aa2f7">*******</tspan>
+<tspan fill="#2ac3de" class="glow">#######################</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#7aa2f7">*******</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#c0c4d8">.</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="287.83" style="animation-delay:0.864s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#####</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#c0c4d8">.</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="293.50" style="animation-delay:0.882s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#########</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#c0c4d8">.</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="299.17" style="animation-delay:0.9s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">##########</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">########</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#c0c4d8">.</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="304.84" style="animation-delay:0.918s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="310.51" style="animation-delay:0.936s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="316.18" style="animation-delay:0.954s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#c0c4d8">...</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="321.85" style="animation-delay:0.972s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">########</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*********</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="327.52" style="animation-delay:0.99s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">################</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**********</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="333.19" style="animation-delay:1.008s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">################</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***********</tspan>
+<tspan fill="#414868">++++</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="338.86" style="animation-delay:1.026s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">################</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#c0c4d8">...</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">************</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="344.53" style="animation-delay:1.044s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#################</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">********</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="350.20" style="animation-delay:1.062s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#############</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*******</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="355.87" style="animation-delay:1.08s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###################</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="361.54" style="animation-delay:1.098s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#####################</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*********</tspan>
+<tspan fill="#414868">++++++++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="367.21" style="animation-delay:1.116s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##############</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">********</tspan>
+<tspan fill="#414868">++++++++++++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="372.88" style="animation-delay:1.134s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###########</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=======</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::</tspan>
+</text>
+<text class="arow" x="10" y="378.55" style="animation-delay:1.152s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">########</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+</text>
+<text class="arow" x="10" y="384.22" style="animation-delay:1.17s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#565f89">====</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+</text>
+<text class="arow" x="10" y="389.89" style="animation-delay:1.188s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::</tspan>
+</text>
+<text class="arow" x="10" y="395.56" style="animation-delay:1.206s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#######</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">############</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----------</tspan>
+<tspan fill="#9aa5ce">::::::::::::::::::</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+</text>
+<text class="arow" x="10" y="401.23" style="animation-delay:1.224s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#########</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">########</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+</text>
+<text class="arow" x="10" y="406.90" style="animation-delay:1.242s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">########################</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">======</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">---------</tspan>
+</text>
+<text class="arow" x="10" y="412.57" style="animation-delay:1.26s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">####################</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">+++++++</tspan>
+<tspan fill="#565f89">====</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">--------------</tspan>
+</text>
+<text class="arow" x="10" y="418.24" style="animation-delay:1.278s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">################</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+++++++++++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">---------------</tspan>
+</text>
+<text class="arow" x="10" y="423.91" style="animation-delay:1.296s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">############</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">--------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">---------</tspan>
+</text>
+<text class="arow" x="10" y="429.58" style="animation-delay:1.314s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#7aa2f7">********</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-------------------</tspan>
+</text>
+<text class="arow" x="10" y="435.25" style="animation-delay:1.332s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#7982a9">------------------</tspan>
+</text>
+<text class="arow" x="10" y="440.92" style="animation-delay:1.35s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::::</tspan>
+<tspan fill="#7982a9">------</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#7982a9">-------</tspan>
+</text>
+<text class="arow" x="10" y="446.59" style="animation-delay:1.368s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#7982a9">-----</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#7982a9">--------</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+</text>
+<text class="arow" x="10" y="452.26" style="animation-delay:1.386s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#2ac3de" class="glow">########</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+</text>
+<text class="arow" x="10" y="457.93" style="animation-delay:1.404s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#############</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#########</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">----</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+<tspan fill="#c0c4d8">..</tspan>
+<tspan fill="#9aa5ce">:</tspan>
+<tspan fill="#565f89">====</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#9aa5ce">::::::::</tspan>
+</text>
+<text class="arow" x="10" y="463.60" style="animation-delay:1.422s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#7982a9">--</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#9aa5ce">:::</tspan>
+</text>
+<text class="arow" x="10" y="469.27" style="animation-delay:1.44s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">:::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">++++++++</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7982a9">--</tspan>
+</text>
+<text class="arow" x="10" y="474.94" style="animation-delay:1.458s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#9aa5ce">::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">++++++++</tspan>
+<tspan fill="#565f89">========</tspan>
+</text>
+<text class="arow" x="10" y="480.61" style="animation-delay:1.476s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::::::::::::</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">===</tspan>
+<tspan fill="#7982a9">---</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*******</tspan>
+<tspan fill="#414868">+++++++++</tspan>
+<tspan fill="#565f89">=======</tspan>
+</text>
+<text class="arow" x="10" y="486.28" style="animation-delay:1.494s" xml:space="preserve">
+<tspan fill="#9aa5ce">:::::::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="491.95" style="animation-delay:1.512s" xml:space="preserve">
+<tspan fill="#9aa5ce">::::::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">###</tspan>
+<tspan fill="#7aa2f7">*****</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#565f89">========</tspan>
+</text>
+<text class="arow" x="10" y="497.62" style="animation-delay:1.53s" xml:space="preserve">
+<tspan fill="#9aa5ce">::</tspan>
+<tspan fill="#7982a9">-</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">************</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">**</tspan>
+<tspan fill="#414868">+++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="503.29" style="animation-delay:1.548s" xml:space="preserve">
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">************</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#414868">++</tspan>
+</text>
+<text class="arow" x="10" y="508.96" style="animation-delay:1.566s" xml:space="preserve">
+<tspan fill="#bb9af7" class="glow">%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">**********</tspan>
+<tspan fill="#414868">+++++++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*********</tspan>
+<tspan fill="#414868">+</tspan>
+</text>
+<text class="arow" x="10" y="514.63" style="animation-delay:1.584s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+++++++++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+++</tspan>
+<tspan fill="#565f89">==</tspan>
+<tspan fill="#414868">+++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="520.30" style="animation-delay:1.602s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*********</tspan>
+<tspan fill="#414868">++++++++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="525.97" style="animation-delay:1.62s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">*******</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#414868">+++++++</tspan>
+<tspan fill="#565f89">=</tspan>
+<tspan fill="#414868">++++++++</tspan>
+</text>
+<text class="arow" x="10" y="531.64" style="animation-delay:1.638s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***************</tspan>
+<tspan fill="#414868">+++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="537.31" style="animation-delay:1.656s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#7aa2f7">******</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%%%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***************</tspan>
+<tspan fill="#414868">+++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="542.98" style="animation-delay:1.674s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#7aa2f7">***********</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">***************</tspan>
+<tspan fill="#414868">+++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="548.65" style="animation-delay:1.692s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">##</tspan>
+<tspan fill="#7aa2f7">********</tspan>
+<tspan fill="#414868">++</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#7aa2f7">**************</tspan>
+<tspan fill="#414868">++++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="554.32" style="animation-delay:1.71s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#2ac3de" class="glow">######</tspan>
+<tspan fill="#7aa2f7">***</tspan>
+<tspan fill="#414868">+++++</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">***************</tspan>
+<tspan fill="#414868">+++++++++++++++</tspan>
+</text>
+<text class="arow" x="10" y="559.99" style="animation-delay:1.728s" xml:space="preserve">
+<tspan fill="#e0af68" class="glow">@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%%%%%%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%</tspan>
+<tspan fill="#e0af68" class="glow">@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#2ac3de" class="glow">####</tspan>
+<tspan fill="#7aa2f7">****</tspan>
+<tspan fill="#414868">+</tspan>
+<tspan fill="#565f89">=====</tspan>
+<tspan fill="#7aa2f7">*</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#bb9af7" class="glow">%%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@</tspan>
+<tspan fill="#bb9af7" class="glow">%%</tspan>
+<tspan fill="#e0af68" class="glow">@@@@@@</tspan>
+<tspan fill="#2ac3de" class="glow">#</tspan>
+<tspan fill="#7aa2f7">****************</tspan>
+<tspan fill="#414868">++++++++++++++</tspan>
+</text>
+</svg>
